@@ -12,24 +12,24 @@
 <body>
 
     <!-- The next line will add an image to your page -->
-    <img src="unsplash.jpg">
+    <img src="http://cdn.akc.org/content/hero/puppy_pictures_header.jpg">
 
   
     <!-- Heading 1, your most important heading, starts here -->
-    <h1>Natasha</h1>
+    <h1>Natasha :)</h1>
     <!-- Heading 1 finishes here -->
 
     <hr>
 
     <h2>About me</h2>
 
-    <p>I study at Birkbeck. I am currently in my second year and I am studying Journalism with Spanish. I am exxcited to graduate and get into the career of journalism.
+    <p>I study at Birkbeck. I am currently in my second year and I am studying Journalism with Spanish. I am excited to graduate and get into the career of journalism.
     </p>   
     
     <p>I really enjoy languages and travelling which is why I decided this was the course and career for me. 
     </p>
     
-    <p>Later on, in your own time, you'll be able to publish this first webpage online, and if there's something you want to edit out then do so before publishing.  
+    <p>I can speak Spanish and a little French and I'm a sagittarius.  
     </p>
 
     <h2>My favourite Web sites</h2>
@@ -37,9 +37,23 @@
     <!--edit the links and the URLs below for your favourite sites -->
 
     <ol>
-        <li><a href="http://www.bbk.ac.uk">Link 1</a></li>
-        <li><a href="http://www.bbk.ac.uk">Link 2</a></li>
+        <li><a href="https://www.skyscanner.net/">Link 1</a></li>
+        <li><a href="https://colombia.travel/en">Link 2</a></li>
         <li><a href="http://www.bbk.ac.uk">Link 3</a></li>
     </ol>
 
 </body>
+
+<link rel="stylesheet" media="screen and (min-width: 600px)" href="dmdd.css">
+<link rel="stylesheet" media="screen and (max-width: 600px)" href="mobile.css">
+
+
+
+<div id="header">
+    <ul>
+        <li><a href="http://www.bbk.ac.uk">Link 1</a></li>
+        <li><a href="http://www.bbk.ac.uk">Link 2</a></li>
+        <li><a href="http://www.bbk.ac.uk">Link 3</a></li>
+    </ul>
+    </div>
+
